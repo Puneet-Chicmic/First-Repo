@@ -4,7 +4,7 @@ import { View, Text, SafeAreaView } from 'react-native'
 const Hello = () => {
     return (
         <SafeAreaView>
-            <Text>Hello there, This is dev branch!!</Text>
+            <Text>Hello there,I am Puneet, This is dev branch!!</Text>
         </SafeAreaView>
     )
 }
