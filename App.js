@@ -5,7 +5,7 @@ import Hello from './Hello'
 const App = () => {
   return (
     <SafeAreaView>
-      <Hello/>
+      <Hello/>  
     </SafeAreaView>
   )
 }
